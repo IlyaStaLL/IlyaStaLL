@@ -1,8 +1,8 @@
 # Hi there, I'm Ilya! 👋
 
 ### 👨‍💻 About Me
-* 🌱 I’m currently a 4th-year university student specializing in **Software Engineering**.
-* 📱 I have a interest in **Mobile Development**, testing, and database architecture.
+* I’m currently a 4th-year university student specializing in **Software Engineering**.
+* I have a interest in **Mobile Development**, testing, and database architecture.
 
 ---
 
