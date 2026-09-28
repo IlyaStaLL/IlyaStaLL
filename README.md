@@ -7,7 +7,7 @@ I am interested in artificial intelligence, machine learning, computer vision an
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Frameworks:**
 <p align="left">
@@ -32,14 +32,14 @@ I am interested in artificial intelligence, machine learning, computer vision an
 
 ---
 
-🎓 Background
+Background
 Bachelor's degree in Software Engineering from RTU MIREA
 Currently pursuing an MSc in Computer Science (Artificial Intelligence) at the University of Kent
 Software Engineering Intern at Veck Messel, working with computer vision and machine learning applications
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 <p align="left">
   <a href="https://t.me/Bogdaryel">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
