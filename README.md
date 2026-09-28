@@ -1,8 +1,9 @@
-# Hi there, I'm Ilya! 👋
+# Hi there, I'm Ilya!
 
-### 👨‍💻 About Me
-* I’m currently a 4th-year university student specializing in **Software Engineering**.
-* I have a interest in **Mobile Development**, testing, and database architecture.
+### About Me
+Software Engineering graduate currently pursuing an MSc in Computer Science (Artificial Intelligence) at the University of Kent.
+
+I am interested in artificial intelligence, machine learning, computer vision and software engineering.
 
 ---
 
@@ -28,6 +29,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Testing-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing" />
 </p>
+
+---
+
+🎓 Background
+Bachelor's degree in Software Engineering from RTU MIREA
+Currently pursuing an MSc in Computer Science (Artificial Intelligence) at the University of Kent
+Software Engineering Intern at Veck Messel, working with computer vision and machine learning applications
 
 ---
 
