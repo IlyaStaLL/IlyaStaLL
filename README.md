@@ -1,4 +1,4 @@
-# Hi there, I'm Ilya!
+# Hi there, I'm Ilia Stalskii!
 
 ### About Me
 Software Engineering graduate currently pursuing an MSc in Computer Science (Artificial Intelligence) at the University of Kent.
