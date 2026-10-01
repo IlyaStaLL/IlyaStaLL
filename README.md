@@ -1,13 +1,22 @@
 # Hi there, I'm Ilia Stalskii!
 
-### About Me
+## About Me
+
 Software Engineering graduate currently pursuing an MSc in Computer Science (Artificial Intelligence) at the University of Kent.
 
-I am interested in artificial intelligence, machine learning, computer vision and software engineering.
+My interests include artificial intelligence, machine learning, computer vision and software engineering.
+
+Software Engineering Intern.
+
+## Experience
+
+**Software Engineering Intern**
+*2026*
+
+Working with software engineering, computer vision and machine learning applications.
 
 ---
-
-### Tech Stack & Tools
+## Tech Stack
 
 **Languages & Frameworks:**
 <p align="left">
@@ -18,7 +27,6 @@ I am interested in artificial intelligence, machine learning, computer vision an
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pascal-E4B623?style=for-the-badge" alt="Pascal" />
 </p>
 
 
@@ -32,10 +40,13 @@ I am interested in artificial intelligence, machine learning, computer vision an
 
 ---
 
-Background
-Bachelor's degree in Software Engineering from RTU MIREA
-Currently pursuing an MSc in Computer Science (Artificial Intelligence) at the University of Kent
-Software Engineering Intern at Veck Messel, working with computer vision and machine learning applications
+## Education
+
+**University of Kent**  
+MSc Computer Science (Artificial Intelligence)
+
+**RTU MIREA**  
+BSc Software Engineering
 
 ---
 
